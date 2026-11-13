@@ -1,4 +1,3 @@
-# Demo A: relevant change to a test file
 import pytest
 from src.library_fine import calculate_fine
 
